@@ -1,5 +1,7 @@
 [![Header](https://raw.githubusercontent.com/MasonOgden/MasonOgden/blob/main/20210925_155931.png "Header")](https://www.linkedin.com/in/mason-ogden-063b81165/)
 
+![alt text](https://github.com/MasonOgden/MasonOgden/blob/49d803e8c8791b0e76fd143fedfba1f3bdc8efdf/20210925_155931.png?raw=true)
+
 ### Hi there 👋
 
 <!--
