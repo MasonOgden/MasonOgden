@@ -1,4 +1,4 @@
-[![alt text](https://github.com/MasonOgden/MasonOgden/blob/49d803e8c8791b0e76fd143fedfba1f3bdc8efdf/header.png?raw=true)](https://www.linkedin.com/in/mason-ogden-063b81165/)
+[![alt text](https://github.com/MasonOgden/MasonOgden/blob/7412bd9348412ff08f3e05f763726124de7fef89/header.png?raw=true)](https://www.linkedin.com/in/mason-ogden-063b81165/)
 
 ### Hi there 👋
 
