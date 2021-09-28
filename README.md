@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MasonOgden/MasonOgden/MasonOgden/readme_header.png "Header")](https://www.linkedin.com/in/mason-ogden-063b81165/)
+
 ### Hi there 👋
 
 <!--
