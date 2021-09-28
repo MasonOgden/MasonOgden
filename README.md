@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MasonOgden/MasonOgden/MasonOgden/20210925_155931.jpg "Header")](https://www.linkedin.com/in/mason-ogden-063b81165/)
+[![Header](https://raw.githubusercontent.com/MasonOgden/MasonOgden/20210925_155931.jpg "Header")](https://www.linkedin.com/in/mason-ogden-063b81165/)
 
 ### Hi there 👋
 
